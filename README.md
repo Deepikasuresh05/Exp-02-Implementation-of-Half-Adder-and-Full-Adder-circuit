@@ -34,21 +34,35 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin Carry = A
 Connect the supply (+5V) to the circuit
 Switch ON the main switch
 If the output is 1, then the led glows.
-### 
-Program:
+ 
+# Program:
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+~~~
+Developed by: S DEEPIKA
+~~~
+RegisterNumber:  23002257
 */
-Logic symbol & Truthtable
-RTL realization
 
-### Output:
-### RTL
-### TIMING DIAGRAM
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/81702906-1e12-4c9c-968a-c3fe290d3f48)
 
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/68cdd9f0-44fb-401c-a454-80da6c755d34)
 
-### TRUTH TABLE 
+# Truthtable
+# Half Adder
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/355bb455-6523-4317-9e84-0a863efc8737)
+# Full Adder
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/c1c68354-bb90-4289-bdc5-ab8a12db6ea5)
+# RTL realization
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/571a7993-91e6-4fd4-9e09-bd171a258cd6)
+# Output:
+
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/eb84676a-ede9-490c-a773-6d01ce28123a)
+
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/9c1ecc64-ef75-43e4-bb5e-e23deb9e6ac8)
+
+# RTL
+![image](https://github.com/Deepikasuresh05/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/148514509/8ead8e4f-1657-446e-aaaa-6ee8d3cefefe)
 
 ### Result:
+Thus the Half adder and the Full adder is Verified
